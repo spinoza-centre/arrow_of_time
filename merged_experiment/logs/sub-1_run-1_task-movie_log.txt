@@ -1,0 +1,696 @@
+1.2018 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+4.9250 	WARNING 	Using NO eyetracker
+4.9725 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1728, 1117]. Using actual size
+6.2004 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+7.1253 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+7.1253 	WARNING 	framerate not measured, substituting 60 by default
+7.1254 	WARNING 	Actual framerate: 60.00000 (1 frame = 0.01667)
+7.1370 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([0, 0, 0]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...))
+7.1382 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=None, depth=0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.25, name='unnamed Line', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.1391 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=None, depth=0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.25, name='unnamed Line', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.1409 	EXP 	Created unnamed DotStim = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0, dir=0.0, dotLife=3, dotSize=4.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='sqr', fieldSize=array([1., 1.]), nDots=1, name='unnamed DotStim', noiseDots='direction', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.5, units='pix', win=Window(...))
+7.1417 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=None, depth=0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.25, name='unnamed Line', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.1425 	EXP 	Created unnamed Line = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=None, depth=0, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1, 1, 1]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.25, name='unnamed Line', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.2400 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.3500 	WARNING 	0.10999566700775176: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+7.3507 	WARNING 	0.11067999992519617: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+7.3658 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.4560 	WARNING 	0.09015279193408787: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+7.4664 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.5515 	WARNING 	0.08513037499506027: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+7.5624 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.6626 	WARNING 	0.10013525001704693: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+7.6628 	WARNING 	0.10037904104683548: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+7.6973 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.7768 	WARNING 	0.07935895805712789: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+7.8019 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+7.8979 	WARNING 	0.09595500002615154: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+7.9215 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.0525 	WARNING 	0.13098770810756832: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+8.0571 	WARNING 	0.1355545410187915: Video catchup needed, advancing self._nextFrameT from 0.04170833333333333 to 0.08341666666666667
+8.0758 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.1624 	WARNING 	0.08660783292725682: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+8.1713 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.2839 	WARNING 	0.11238354200031608: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+8.2839 	WARNING 	0.11256808298639953: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+8.2955 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.3955 	WARNING 	0.09994812496006489: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+8.3955 	WARNING 	0.10005133296363056: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+8.4061 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.5054 	WARNING 	0.09919624996837229: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.034482758620689655
+8.5130 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.6124 	WARNING 	0.09929579205345362: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+8.6204 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.7361 	WARNING 	0.11568216700106859: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+8.7362 	WARNING 	0.11579091707244515: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+8.7692 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.8606 	WARNING 	0.09135408396832645: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+8.8794 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+8.9822 	WARNING 	0.10280466603580862: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+8.9823 	WARNING 	0.10292816604487598: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+9.0091 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.0938 	WARNING 	0.0845862909918651: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+9.1092 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.1976 	WARNING 	0.08832995896227658: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+9.2080 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.2888 	WARNING 	0.08074112492613494: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+9.3089 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.3966 	WARNING 	0.08765333297196776: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+9.4118 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.5086 	WARNING 	0.09674162499140948: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+9.5123 	WARNING 	0.10048945795278996: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+9.5288 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.6386 	WARNING 	0.10973241704050452: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+9.6387 	WARNING 	0.10985204204916954: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+9.6585 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.7443 	WARNING 	0.08579058398026973: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+9.7669 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+9.8497 	WARNING 	0.08277274994179606: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+9.8682 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.0147 	WARNING 	0.14639266696758568: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.0148 	WARNING 	0.1465121249202639: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+10.0148 	WARNING 	0.14652229193598032: Video catchup needed, advancing self._nextFrameT from 0.06673333333333334 to 0.10010000000000001
+10.0578 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.1751 	WARNING 	0.11713829205837101: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+10.1752 	WARNING 	0.11732408299576491: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+10.1948 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.3137 	WARNING 	0.11882116599008441: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+10.3143 	WARNING 	0.11948341596871614: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+10.3267 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.4327 	WARNING 	0.10590033303014934: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.4328 	WARNING 	0.10603679099585861: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+10.4455 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.5631 	WARNING 	0.11749762506224215: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.5632 	WARNING 	0.11765445803757757: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+10.5832 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.6790 	WARNING 	0.09569874999579042: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.6930 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.7953 	WARNING 	0.10221041704062372: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.7956 	WARNING 	0.10251583403442055: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+10.8069 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+10.9201 	WARNING 	0.11318570794537663: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+10.9204 	WARNING 	0.11346416594460607: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+10.9305 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.0531 	WARNING 	0.12256137502845377: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+11.0537 	WARNING 	0.12316808302421123: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+11.0642 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.1861 	WARNING 	0.12181125010829419: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+11.1862 	WARNING 	0.12194045900832862: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+11.1985 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.3166 	WARNING 	0.11798341700341552: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+11.3167 	WARNING 	0.11812570900656283: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+11.3396 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.4415 	WARNING 	0.10186958301346749: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+11.4516 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.5513 	WARNING 	0.09953629202209413: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+11.5625 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.6562 	WARNING 	0.09357616701163352: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+11.6689 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.7903 	WARNING 	0.12135891697835177: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+11.7905 	WARNING 	0.12156212504487485: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+11.8063 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+11.9068 	WARNING 	0.1003411669516936: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+11.9068 	WARNING 	0.10046445892658085: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+11.9199 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.0205 	WARNING 	0.1005562919890508: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+12.0207 	WARNING 	0.10078308405354619: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+12.0334 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.1420 	WARNING 	0.1085512499557808: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+12.1421 	WARNING 	0.10868266597390175: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+12.1550 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.2588 	WARNING 	0.10370516707189381: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+12.2592 	WARNING 	0.10411087505053729: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+12.2752 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.3713 	WARNING 	0.09604937501717359: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+12.3848 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.4880 	WARNING 	0.10308412497397512: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+12.4880 	WARNING 	0.1031987089663744: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+12.5035 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.6003 	WARNING 	0.09673766593914479: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+12.6109 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.7417 	WARNING 	0.13068304094485939: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+12.7431 	WARNING 	0.13216262497007847: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+12.7570 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+12.8677 	WARNING 	0.11057695909403265: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+12.8825 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.0062 	WARNING 	0.12372562498785555: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+13.0063 	WARNING 	0.12385141698177904: Video catchup needed, advancing self._nextFrameT from 0.04 to 0.08
+13.0174 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.1320 	WARNING 	0.11449770897161216: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+13.1324 	WARNING 	0.1149914589477703: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+13.1483 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.2583 	WARNING 	0.10999391705263406: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+13.2736 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.3822 	WARNING 	0.10848774993792176: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+13.3828 	WARNING 	0.10913574998266995: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+13.4026 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.5510 	WARNING 	0.1483814170351252: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+13.5511 	WARNING 	0.14849266700912267: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+13.5511 	WARNING 	0.1485030830372125: Video catchup needed, advancing self._nextFrameT from 0.06673333333333334 to 0.10010000000000001
+13.5851 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.6996 	WARNING 	0.1144815000006929: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+13.6998 	WARNING 	0.1146622090600431: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+13.7262 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.8332 	WARNING 	0.10696820903103799: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+13.8355 	WARNING 	0.1092814999865368: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+13.8464 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+13.9514 	WARNING 	0.10492662503384054: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+13.9611 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.0886 	WARNING 	0.1274412920465693: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+14.0888 	WARNING 	0.12764345901086926: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+14.1063 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.2306 	WARNING 	0.12420458300039172: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+14.2307 	WARNING 	0.1243431669427082: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+14.2425 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.3477 	WARNING 	0.10511204204522073: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.033715441672285906
+14.3493 	WARNING 	0.10671874997206032: Video catchup needed, advancing self._nextFrameT from 0.033715441672285906 to 0.06743088334457181
+14.3599 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.4752 	WARNING 	0.11517612496390939: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+14.4775 	WARNING 	0.11751424998510629: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+14.4900 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.6032 	WARNING 	0.11307462502736598: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+14.6037 	WARNING 	0.11359683400951326: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+14.6168 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.7501 	WARNING 	0.13316824997309595: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+14.7502 	WARNING 	0.13331879198085517: Video catchup needed, advancing self._nextFrameT from 0.04 to 0.08
+14.7615 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+14.8808 	WARNING 	0.11919812497217208: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+14.8822 	WARNING 	0.12065520801115781: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+14.8938 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.0074 	WARNING 	0.11348716693464667: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.0076 	WARNING 	0.11374466703273356: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.0197 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.1442 	WARNING 	0.12445387500338256: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.1443 	WARNING 	0.12457800004631281: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.1557 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.2652 	WARNING 	0.10947854199912399: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.2653 	WARNING 	0.10961550008505583: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.2761 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.3967 	WARNING 	0.12051520799286664: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.3981 	WARNING 	0.12195729103405029: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.4120 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.5307 	WARNING 	0.11865037505049258: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.5308 	WARNING 	0.11878587503451854: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.5421 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.6712 	WARNING 	0.12893941707443446: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.6713 	WARNING 	0.1291155000217259: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.6831 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.7927 	WARNING 	0.10958433395717293: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.7929 	WARNING 	0.10973816690966487: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.8068 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+15.9266 	WARNING 	0.11974045808892697: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+15.9272 	WARNING 	0.12038641609251499: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+15.9406 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.0534 	WARNING 	0.11279441602528095: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+16.0633 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.1572 	WARNING 	0.09380887495353818: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+16.1666 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.2607 	WARNING 	0.09401570807676762: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+16.2759 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.3797 	WARNING 	0.10369083296973258: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+16.3798 	WARNING 	0.1038252500584349: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+16.3922 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.5157 	WARNING 	0.12342945800628513: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+16.5158 	WARNING 	0.12353812495712191: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+16.5268 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.6551 	WARNING 	0.12824537500273436: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+16.6553 	WARNING 	0.12846204196102917: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+16.6697 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.7935 	WARNING 	0.12369991699233651: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+16.7938 	WARNING 	0.12400233303196728: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+16.8070 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+16.9179 	WARNING 	0.11086916702333838: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+16.9296 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.0467 	WARNING 	0.11708741693291813: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+17.0469 	WARNING 	0.11733637494035065: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+17.0588 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.1791 	WARNING 	0.11994879099074751: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+17.1794 	WARNING 	0.1205532499589026: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+17.1908 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.3067 	WARNING 	0.11583449994213879: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+17.3068 	WARNING 	0.11597766703926027: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+17.3200 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.4438 	WARNING 	0.12381545803509653: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+17.4440 	WARNING 	0.12399408302735537: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+17.4708 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.5772 	WARNING 	0.1062665410572663: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+17.5773 	WARNING 	0.10644545801915228: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+17.5916 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.7331 	WARNING 	0.1414542079437524: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+17.7332 	WARNING 	0.14158033300191164: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+17.7332 	WARNING 	0.1415921669686213: Video catchup needed, advancing self._nextFrameT from 0.06666666666666667 to 0.1
+17.7478 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.8616 	WARNING 	0.11373458395246416: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+17.8617 	WARNING 	0.11385979200713336: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+17.8792 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+17.9938 	WARNING 	0.11449908302165568: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+17.9939 	WARNING 	0.114655707962811: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+18.0075 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.1324 	WARNING 	0.12474245799239725: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+18.1326 	WARNING 	0.12504966708365828: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+18.1487 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.2631 	WARNING 	0.11428208404686302: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03361344537815126
+18.2633 	WARNING 	0.1145194589626044: Video catchup needed, advancing self._nextFrameT from 0.03361344537815126 to 0.06722689075630252
+18.2762 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.4082 	WARNING 	0.131879375083372: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+18.4085 	WARNING 	0.1321938750334084: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+18.4201 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.5308 	WARNING 	0.11056383303366601: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+18.5415 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.6581 	WARNING 	0.11657487507909536: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+18.6583 	WARNING 	0.11675195908173919: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+18.6718 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.7762 	WARNING 	0.10423845797777176: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04170833333333333
+18.7850 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+18.8913 	WARNING 	0.10624304204247892: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+18.8917 	WARNING 	0.10667474998626858: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+18.9082 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.0176 	WARNING 	0.1093584590125829: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.034482758620689655
+19.0177 	WARNING 	0.10951720899902284: Video catchup needed, advancing self._nextFrameT from 0.034482758620689655 to 0.06896551724137931
+19.0309 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.1412 	WARNING 	0.11018229194451123: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+19.1511 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.2612 	WARNING 	0.11001275002490729: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+19.2617 	WARNING 	0.1105888329911977: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+19.2766 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.4085 	WARNING 	0.13184699998237193: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+19.4086 	WARNING 	0.1319724170025438: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+19.4196 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.5219 	WARNING 	0.10226329194847494: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.041666666666666664
+19.5333 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.6704 	WARNING 	0.13704579195473343: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+19.6705 	WARNING 	0.1372402919223532: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+19.6705 	WARNING 	0.1372578339651227: Video catchup needed, advancing self._nextFrameT from 0.06666666666666667 to 0.1
+19.6847 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.7846 	WARNING 	0.09980158298276365: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+19.7848 	WARNING 	0.10003779106773436: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+19.7981 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+19.8909 	WARNING 	0.09272175002843142: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+19.9019 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.0195 	WARNING 	0.11757141700945795: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+20.0198 	WARNING 	0.11787941702641547: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+20.0324 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.1584 	WARNING 	0.1260264579905197: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+20.1588 	WARNING 	0.12637175002600998: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+20.1800 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.2798 	WARNING 	0.09975483396556228: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+20.2926 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.3952 	WARNING 	0.10257191606797278: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+20.4047 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.5110 	WARNING 	0.10623250005301088: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+20.5111 	WARNING 	0.10635633300989866: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+20.5222 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.6186 	WARNING 	0.0963383330963552: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+20.6285 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.7554 	WARNING 	0.1267972500063479: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+20.7555 	WARNING 	0.12697704194579273: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+20.7668 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+20.8784 	WARNING 	0.11154095898382366: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+20.8786 	WARNING 	0.11173224996309727: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+20.8899 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+21.0193 	WARNING 	0.12939841602928936: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+21.0194 	WARNING 	0.12950216606259346: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+21.0441 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+21.1509 	WARNING 	0.10674395901151001: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+21.1511 	WARNING 	0.10694462503306568: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+21.1677 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+21.2825 	WARNING 	0.11474950006231666: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03333333333333333
+21.2826 	WARNING 	0.11486349999904633: Video catchup needed, advancing self._nextFrameT from 0.03333333333333333 to 0.06666666666666667
+21.2945 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+21.4059 	WARNING 	0.11135795805603266: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.04
+21.4154 	EXP 	Created unnamed MovieStim3 = MovieStim3(__class__=<class 'psychopy.visual.movie3.MovieStim3'>, anchor=('center', 'center'), autoLog=True, color=UNKNOWN, colorSpace=UNKNOWN, depth=0.0, filename=str(...), flipHoriz=False, flipVert=False, fps=UNKNOWN, interpolate=True, loop=False, name='unnamed MovieStim3', noAudio=True, opacity=1, ori=method-wrapper(...), pos=array([0., 0.]), size=None, units='pix', vframe_callback=UNKNOWN, volume=UNKNOWN, win=Window(...))
+21.5211 	WARNING 	0.105601790943183: Video catchup needed, advancing self._nextFrameT from 0.0 to 0.03336666666666667
+21.5212 	WARNING 	0.10570724995341152: Video catchup needed, advancing self._nextFrameT from 0.03336666666666667 to 0.06673333333333334
+21.6385 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=22.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Please keep fixating at the center.', units='pix', win=Window(...), wrapWidth=14)
+21.6432 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=22.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Waiting for experiment to start', units='pix', win=Window(...), wrapWidth=14)
+21.6460 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=22.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='pix', win=Window(...), wrapWidth=14)
+21.6461 	WARNING 	Writing results to: /Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/merged_experiment/logs/sub-1_run-1_task-movie
+21.6461 	EXP 	window1: recordFrameIntervals = True
+21.6729 	WARNING 	t of last frame was 14547.94ms (=1/0)
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-QiJyOUkuo38_6.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-NuZy8Rjk4d0_156.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-_F8eDDKtvJ0_82.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-c5_SFS4aaJI_1102.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-LZS1RrEtTeQ_136.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cILZ_cB3_so_73.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_wc-0SAXOWjdNVGC_8.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-bmGWhOCsvJo_128.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-1CV2cYtUlxE_57.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-8gCfc-o3pyk_85.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_EFR8AteY59I_15.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-gDZnJCR2uXI_18.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-W00vtWnXgIk_73.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-EApB0DJ3ECg_119.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-QxNuo4ojvz4_420.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-9pUeQix6EW8_7.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-kA0ybjmoiMc_284.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R__6qAy77ODUI_175.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-GWgG8PVM1iw_34.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-nn-8LZcafGs_35.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-6mRpmfIvdew_1435.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-nqRBIR8dFYc_328.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-2i53vKte7SA_117.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_wc-__wCAtivIDG3_93.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-xUPucH7kNAs_178.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-_6j2NXrB-zE_28.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-3R23XwTXpKs_238.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-kASuBtMK7-o_79.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-CZ2qiY-kS7Y_105.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-nYi_FfCjepk_74.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-HuU5L5dVpdY_112.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-GfPep7IhZIU_47.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_ahJft-G235A_122.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-s73Xqkcq9Js_285.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-9PTQ4U4oPUU_243.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-CZ2qiY-kS7Y_105.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-49uKOBs2wLQ_45.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-QQPv17nfR_E_2.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-1CV2cYtUlxE_57.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-siUaw_L-hrw_116.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-TNtO8RPd3iE_25.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-cILZ_cB3_so_73.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-Nnt51ug6NF8_53.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-nqRBIR8dFYc_328.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-DfgpLIP0jnk_105.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-R5wOWRtRmrI_36.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-BqJHT4K7Qf8_127.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-ZfDtalvUK5k_36.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cAFx29wS_xo_130.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-Pc1ZlCvsPpc_5.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-GbL63AmOIss_116.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_wc-zkO_omg3nTvg_5.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-7tLvK2IEwRM_4.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-b0IfGcoHfD0_83.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-1ruRqcfBMw0_21.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-bTcbsBET7gc_270.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-1H8sfkZGZK8_3.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-yPtwbpByPds_33.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-e9ttJw0BUuU_40.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-ORE2V_VvOpg_67.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-gmiyqQDGN78_7.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S__6qAy77ODUI_175.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-83nimFMNhrM_131.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-szXWk_X_67Q_10.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-RKo978aBdzw_173.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-sC9suzTl1Y0_66.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-VbKGc8N_29.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-3JApfnMu5cU_378.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-IDpUZ2NWBUY_60.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-3eQHOLBzOqA_100.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-BKkZUSowoxg_59.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-11VGDAOVEag_8.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-qlR-TG7veA4_17.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-n2sJadTbuxo_10.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-RL1chIcbTPQ_11.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-gbDSSDcRlg4_31.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-7v3kHYBe7-E_8.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-147vePB5Arc_15.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-RO4mhuXBVrY_67.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-e9ttJw0BUuU_40.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-IDpUZ2NWBUY_60.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-RL1chIcbTPQ_11.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_CmWAkLISGyE_265.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-Kabm8kuBnFo_27.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-yf4RdPKpSVc_44.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-BeF1BUrjY_8_117.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-TZ107yBhXoA_1.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-UBqUhu-GEVg_6.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-aD-EAuBdpUo_163.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-7VVzNnp36DM_78.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-Nnt51ug6NF8_53.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-GWgG8PVM1iw_34.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-GbL63AmOIss_116.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_EFR8AteY59I_15.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-n2PnABmSpxI_115.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-XPRNMelf5Fs_235.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-fIEGqReekCM_10.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-zhQ32_OayBQ_39.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-SPbEzYcZKIc_13.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_CmWAkLISGyE_265.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-CINajD_PVjQ_494.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-bmGWhOCsvJo_128.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-j3aQHA2TVq4_38.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-c5IgOXX8YZ0_24.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-gaXgXGEanCk_140.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_yt-a5TGHnldsKg_102.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_8osH5dThnZY_116.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-N4tt7ZhANDg_21.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-oVrkSsEpuvk_118.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cJ7-H1Dckpk_33.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-3eQHOLBzOqA_100.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-KK6fVRAMm-c_476.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-YTQXM5ZjRgg_116.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.6729 	EXP 	unnamed MovieStim3: autoLog = True
+21.6729 	EXP 	unnamed MovieStim3: movie = '/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-ThT8utBaywI_68.mp4'
+21.6729 	EXP 	unnamed MovieStim3: ori = 0.0
+21.7137 	WARNING 	t of last frame was 40.77ms (=1/24)
+22.0687 	WARNING 	t of last frame was 29.04ms (=1/34)
+22.4241 	WARNING 	t of last frame was 27.74ms (=1/36)
+23.1119 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+23.7989 	DATA 	Mouse: Left button down, pos=(939,75)
+23.8875 	DATA 	Mouse:  Left button up, pos=(939,75)
+24.6440 	DATA 	Keypress: space
+26.1013 	DATA 	Keypress: t
+27.5223 	EXP 	Set unnamed MovieStim3 playing
+31.5119 	EXP 	Set unnamed MovieStim3 playing
+35.5215 	EXP 	Set unnamed MovieStim3 playing
+39.5256 	EXP 	Set unnamed MovieStim3 playing
+43.5161 	EXP 	Set unnamed MovieStim3 playing
+47.5192 	EXP 	Set unnamed MovieStim3 playing
+51.5288 	EXP 	Set unnamed MovieStim3 playing
+55.5270 	EXP 	Set unnamed MovieStim3 playing
+55.7220 	DATA 	Keypress: q
+55.7247 	EXP 	window1: recordFrameIntervals = False
+56.0524 	EXP 	window1: mouseVisible = True

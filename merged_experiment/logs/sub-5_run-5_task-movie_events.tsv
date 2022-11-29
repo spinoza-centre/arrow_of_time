@@ -1,0 +1,11 @@
+trial_nr	onset	event_type	phase	response	nr_frames	movie_index	movie_duration	movie_file	onset_abs	duration
+0	0.16127145907375962	stim	0		275				17.32220966706518	2.400770540931262
+0	2.554798875004053	response	0	space					19.715737082995474	
+1	2.5620420000050217	stim	0		105				19.722980207996443	0.8765835000667721
+1	3.433581417077221	pulse	0	t					20.594519625068642	
+1	3.438625500071794	stim	1		50				20.599563708063215	0.413081125007011
+2	3.851706625078805	fix_pre	0		118	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group4/final_videos/1_S_yt-tqxZlasEvZA_43.mp4	21.012644833070226	1.0058410419151187
+2	4.8575476669939235	movie	1		239	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group4/final_videos/1_S_yt-tqxZlasEvZA_43.mp4	22.018485874985345	1.9847942920168862
+2	6.84234195901081	fix_post	2		119	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group4/final_videos/1_S_yt-tqxZlasEvZA_43.mp4	24.00328016700223	0.9995310000376776
+3	7.841872959048487	fix_pre	0		119	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group4/final_videos/1_S_R_yt-T9Vwt7wFvPk_100.mp4	25.00281116703991	1.0120435409480706
+3	8.853916499996558	movie	1		205	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group4/final_videos/1_S_R_yt-T9Vwt7wFvPk_100.mp4	26.01485470798798	1.719152709003538

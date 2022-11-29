@@ -1,0 +1,29 @@
+trial_nr	onset	event_type	phase	response	nr_frames	movie_index	movie_duration	movie_file	onset_abs	duration
+0	0.02690504095517099	stim	0		345				16.74752237391658	2.976956499973312
+0	2.9978534159017727	response	0	space					19.718470748863183	
+1	3.003861540928483	stim	0		174				19.724478873889893	1.4556280000833794
+1	4.455193958012387	pulse	0	t					21.175811290973797	
+1	4.4594895410118625	stim	1		49				21.180106873973273	0.40912966697942466
+2	4.868619207991287	fix_pre	0		121	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-QiJyOUkuo38_6.mp4	21.589236540952697	1.0075822079088539
+2	5.876201415900141	movie	1		239	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-QiJyOUkuo38_6.mp4	22.59681874886155	1.9950473750941455
+2	7.8712487909942865	fix_post	2		119	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-QiJyOUkuo38_6.mp4	24.591866123955697	0.9952548749279231
+3	8.86650366592221	fix_pre	0		120	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-NuZy8Rjk4d0_156.mp4	25.58712099888362	0.9993041250854731
+3	9.865807791007683	movie	1		240	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-NuZy8Rjk4d0_156.mp4	26.586425123969093	1.9992090419400483
+3	11.865016832947731	fix_post	2		119	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-NuZy8Rjk4d0_156.mp4	28.58563416590914	0.9993457919918001
+4	12.864362624939531	fix_pre	0		121	2.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-_F8eDDKtvJ0_82.mp4	29.58497995790094	1.0110612909775227
+4	13.875423915917054	movie	1		238	2.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-_F8eDDKtvJ0_82.mp4	30.596041248878464	1.9880998340668157
+4	15.86352374998387	fix_post	2		119	2.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/2_S_R_yt-_F8eDDKtvJ0_82.mp4	32.58414108294528	1.00434491597116
+5	16.86786866595503	fix_pre	0		119	3.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-c5_SFS4aaJI_1102.mp4	33.58848599891644	1.0117067500250414
+5	17.87957541598007	movie	1		241	3.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-c5_SFS4aaJI_1102.mp4	34.60019274894148	1.9942204169929028
+5	19.873795832972974	fix_post	2		120	3.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_R_yt-c5_SFS4aaJI_1102.mp4	36.594413165934384	1.0012931249802932
+6	20.875088957953267	fix_pre	0		118	4.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-LZS1RrEtTeQ_136.mp4	37.59570629091468	0.9949012079741806
+6	21.869990165927447	movie	1		233	4.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-LZS1RrEtTeQ_136.mp4	38.59060749888886	2.000856416998431
+6	23.87084658292588	fix_post	2		120	4.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-LZS1RrEtTeQ_136.mp4	40.59146391588729	0.9976301670540124
+7	24.86847674997989	fix_pre	0		119	5.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cILZ_cB3_so_73.mp4	41.5890940829413	1.0046179159544408
+7	25.87309466593433	movie	1		240	5.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cILZ_cB3_so_73.mp4	42.59371199889574	1.9988327090395615
+7	27.871927374973893	fix_post	2		119	5.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-cILZ_cB3_so_73.mp4	44.5925447079353	0.9917681249789894
+8	28.863695499952883	fix_pre	0		121	6.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_wc-0SAXOWjdNVGC_8.mp4	45.58431283291429	1.018996375030838
+8	29.88269187498372	movie	1		225	6.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_wc-0SAXOWjdNVGC_8.mp4	46.60330920794513	1.984211124945432
+8	31.866902999929152	fix_post	2		120	6.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_wc-0SAXOWjdNVGC_8.mp4	48.58752033289056	1.006333832978271
+9	32.87323683290742	fix_pre	0		120	7.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-bmGWhOCsvJo_128.mp4	49.593854165868834	1.0076890420168638
+9	33.88092587492429	movie	1		24	7.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group1/final_videos/1_S_yt-bmGWhOCsvJo_128.mp4	50.6015432078857	0.1976518330629915

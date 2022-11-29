@@ -1,0 +1,14 @@
+trial_nr	onset	event_type	phase	response	nr_frames	movie_index	movie_duration	movie_file	onset_abs	duration
+0	0.032183666015043855	stim	0		138				15.496062124031596	1.156266334000975
+0	1.1836229999316856	response	0	space					16.647501457948238	
+1	1.1884500000160187	stim	0		110				16.65232845803257	0.9125164999859408
+1	2.0966822910122573	pulse	0	t					17.56056074902881	
+1	2.1009665000019595	stim	1		48				17.56484495801851	0.39921879093162715
+2	2.5001852909335867	fix_pre	0		121	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-RMjo2PPEPEA_112.mp4	17.96406374895014	1.010276791988872
+2	3.5104620829224586	movie	1		240	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-RMjo2PPEPEA_112.mp4	18.97434054093901	1.9964399170130491
+2	5.506901999935508	fix_post	2		120	0.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-RMjo2PPEPEA_112.mp4	20.97078045795206	1.0017383750528097
+3	6.5086403749883175	fix_pre	0		120	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-JTBXPfbkjsA_11.mp4	21.97251883300487	1.0031993329757825
+3	7.5118397079641	movie	1		238	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-JTBXPfbkjsA_11.mp4	22.975718165980652	1.9897994579514489
+3	9.501639165915549	fix_post	2		120	1.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-JTBXPfbkjsA_11.mp4	24.9655176239321	1.0033385420683771
+4	10.504977707983926	fix_pre	0		120	2.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-QXsedpZh800_275.mp4	25.968856166000478	1.001525333034806
+4	11.506503041018732	movie	1		222	2.0	2.0	/Users/shufanzhang/Documents/PhD/Arrow_of_time/hcp_movie_eyetracking-main/movs/MomentsInTime/groups/group3/final_videos/1_S_R_yt-QXsedpZh800_275.mp4	26.970381499035284	1.8457850000122562
